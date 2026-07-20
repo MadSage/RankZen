@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+Allow: /Institutes
+Allow: /states
+Allow: /state/
+Allow: /authorities
+Allow: /notifications
+Allow: /results
+Allow: /guide
+Allow: /references
+Disallow: /admin/
+Disallow: /api/
+
+Sitemap: https://rankzen.in/sitemap.xml

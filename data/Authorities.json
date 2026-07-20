@@ -1,0 +1,275 @@
+[
+  {
+    "scope": "All India",
+    "scopeType": "all-india",
+    "name": "Medical Counselling Committee (MCC)",
+    "description": "Directorate General of Health Services, Ministry of Health & Family Welfare, Government of India",
+    "website": "https://mcc.nic.in"
+  },
+  {
+    "scope": "AFMC Pune",
+    "scopeType": "state",
+    "name": "Armed Forces Medical College (AFMC), Pune",
+    "description": "",
+    "website": "https://afmc.nic.in/"
+  },
+  {
+    "scope": "Andaman & Nicobar Islands",
+    "scopeType": "state",
+    "name": "Andaman & Nicobar Islands Institute of Medical Sciences (ANIIMS)",
+    "description": "",
+    "website": "http://andssw1.and.nic.in/aniims/#"
+  },
+  {
+    "scope": "Andhra Pradesh",
+    "scopeType": "state",
+    "name": "Dr. NTR University of Health Sciences",
+    "description": "",
+    "website": "https://drntr.uhsap.in/index/"
+  },
+  {
+    "scope": "Arunachal Pradesh",
+    "scopeType": "state",
+    "name": "Directorate of Higher & Technical Education, Arunachal Pradesh",
+    "description": "",
+    "website": "https://apdhte.nic.in/"
+  },
+  {
+    "scope": "Assam",
+    "scopeType": "state",
+    "name": "Directorate of Medical Education, Assam",
+    "description": "",
+    "website": "https://dme.assam.gov.in/"
+  },
+  {
+    "scope": "Bihar",
+    "scopeType": "state",
+    "name": "Bihar Combined Entrance Competitive Examination Board (BCECEB)",
+    "description": "",
+    "website": "https://bceceboard.bihar.gov.in/index.php"
+  },
+  {
+    "scope": "Chandigarh",
+    "scopeType": "state",
+    "name": "Government Medical College & Hospital, Chandigarh",
+    "description": "",
+    "website": "https://gmch.gov.in/"
+  },
+  {
+    "scope": "Chhattisgarh",
+    "scopeType": "state",
+    "name": "Directorate of Medical Education, Chhattisgarh",
+    "description": "",
+    "website": "https://cgdme.admissions.nic.in/"
+  },
+  {
+    "scope": "Dadra & Nagar Haveli",
+    "scopeType": "state",
+    "name": "NAMO Medical Education & Research Institute",
+    "description": "",
+    "website": "https://namomeriadmission.in/Home.aspx"
+  },
+  {
+    "scope": "Delhi (GGSIPU)",
+    "scopeType": "state",
+    "name": "Guru Gobind Singh Indraprastha University (GGSIPU)",
+    "description": "",
+    "website": "https://admissions.nic.in/IPUADM/Applicant/root/home.aspx"
+  },
+  {
+    "scope": "Goa",
+    "scopeType": "state",
+    "name": "Directorate of Technical Education, Goa",
+    "description": "",
+    "website": "https://dte.goa.gov.in/"
+  },
+  {
+    "scope": "Gujarat",
+    "scopeType": "state",
+    "name": "Admission Committee for Professional Undergraduate Medical Courses (ACPUGMEC)",
+    "description": "",
+    "website": "https://medadmgujarat.ncode.in/UG/Purchase_PIN.aspx"
+  },
+  {
+    "scope": "Haryana",
+    "scopeType": "state",
+    "name": "Directorate of Medical Education & Research, Haryana",
+    "description": "",
+    "website": "https://uhsrugcounselling.com/"
+  },
+  {
+    "scope": "Himachal Pradesh",
+    "scopeType": "state",
+    "name": "Atal Medical & Research University (AMRU)",
+    "description": "",
+    "website": "https://amruhp.ac.in/"
+  },
+  {
+    "scope": "Jammu & Kashmir",
+    "scopeType": "state",
+    "name": "Jammu & Kashmir Board of Professional Entrance Examinations (JKBOPEE)",
+    "description": "",
+    "website": "https://www.jkbopee.gov.in/Pages/ForgotPassword.aspx"
+  },
+  {
+    "scope": "Jharkhand",
+    "scopeType": "state",
+    "name": "Jharkhand Combined Entrance Competitive Examination Board (JCECEB)",
+    "description": "",
+    "website": "https://jceceb.jharkhand.gov.in/Default.aspx"
+  },
+  {
+    "scope": "Karnataka",
+    "scopeType": "state",
+    "name": "Karnataka Examinations Authority (KEA)",
+    "description": "",
+    "website": "https://cetonline.karnataka.gov.in/kea/indexnew"
+  },
+  {
+    "scope": "Kerala",
+    "scopeType": "state",
+    "name": "Commissioner for Entrance Examinations (CEE), Kerala",
+    "description": "",
+    "website": "https://cee.kerala.gov.in/cee/index.php?url=in"
+  },
+  {
+    "scope": "Madhya Pradesh",
+    "scopeType": "state",
+    "name": "Directorate of Medical Education, Madhya Pradesh",
+    "description": "",
+    "website": "https://dme.mponline.gov.in/Portal/Services/DMEMP/DMEUG/Profile/ProfileLoginHome.aspx"
+  },
+  {
+    "scope": "Maharashtra",
+    "scopeType": "state",
+    "name": "State CET Cell, Maharashtra",
+    "description": "",
+    "website": "https://cetcell.mahacet.org/"
+  },
+  {
+    "scope": "Manipur",
+    "scopeType": "state",
+    "name": "Directorate of Health Services, Manipur",
+    "description": "",
+    "website": "https://manipurserviceplus.in/"
+  },
+  {
+    "scope": "Meghalaya",
+    "scopeType": "state",
+    "name": "NEIGRIHMS, Shillong",
+    "description": "",
+    "website": "https://meghealth.gov.in/news.html"
+  },
+  {
+    "scope": "Mizoram",
+    "scopeType": "state",
+    "name": "Department of Higher & Technical Education, Mizoram",
+    "description": "",
+    "website": "https://dhte.mizoram.gov.in/"
+  },
+  {
+    "scope": "Nagaland",
+    "scopeType": "state",
+    "name": "Nagaland Institute of Medical Sciences & Research (NIMSR)",
+    "description": "",
+    "website": "https://nimsr.nagaland.gov.in/"
+  },
+  {
+    "scope": "Odisha",
+    "scopeType": "state",
+    "name": "OJEE / Directorate of Medical Education & Training, Odisha",
+    "description": "",
+    "website": "https://ojee.nic.in/"
+  },
+  {
+    "scope": "Puducherry",
+    "scopeType": "state",
+    "name": "CENTAC",
+    "description": "",
+    "website": "https://centacpuducherry.in/"
+  },
+  {
+    "scope": "Punjab",
+    "scopeType": "state",
+    "name": "Baba Farid University of Health Sciences (BFUHS)",
+    "description": "",
+    "website": "https://bfuhs.ac.in/indexM.aspx"
+  },
+  {
+    "scope": "Punjab (CMC Ludhiana)",
+    "scopeType": "state",
+    "name": "Christian Medical College (CMC), Ludhiana",
+    "description": "",
+    "website": "https://www.cmcludhiana.in/"
+  },
+  {
+    "scope": "Rajasthan",
+    "scopeType": "state",
+    "name": "Medical Education, Government of Rajasthan",
+    "description": "",
+    "website": "https://rajugneet2025.in/"
+  },
+  {
+    "scope": "Sikkim",
+    "scopeType": "state",
+    "name": "Sikkim Manipal University",
+    "description": "",
+    "website": "https://smu.edu.in/"
+  },
+  {
+    "scope": "Tamil Nadu",
+    "scopeType": "state",
+    "name": "Directorate of Medical Education, Tamil Nadu",
+    "description": "",
+    "website": "https://tnmedicalselection.net/"
+  },
+  {
+    "scope": "Tamil Nadu (CMC Vellore)",
+    "scopeType": "state",
+    "name": "Christian Medical College (CMC), Vellore",
+    "description": "",
+    "website": "https://admissions.cmcvellore.ac.in/"
+  },
+  {
+    "scope": "Telangana",
+    "scopeType": "state",
+    "name": "Kaloji Narayana Rao University of Health Sciences (KNRUHS)",
+    "description": "",
+    "website": "https://tsmedadm.tsche.in/index.php"
+  },
+  {
+    "scope": "Telangana",
+    "scopeType": "state",
+    "name": "KNRUHS (Management Quota)",
+    "description": "",
+    "website": "https://tspvtmedadm.tsche.in/"
+  },
+  {
+    "scope": "Tripura",
+    "scopeType": "state",
+    "name": "Directorate of Medical Education, Tripura",
+    "description": "",
+    "website": "https://dme.tripura.gov.in/"
+  },
+  {
+    "scope": "Uttar Pradesh",
+    "scopeType": "state",
+    "name": "Directorate of Medical Education & Training, Uttar Pradesh",
+    "description": "",
+    "website": "https://upneet.gov.in/"
+  },
+  {
+    "scope": "Uttarakhand",
+    "scopeType": "state",
+    "name": "Hemwati Nandan Bahuguna Uttarakhand Medical Education University (HNBUMU)",
+    "description": "",
+    "website": "https://meta-secure.com/HNBUMU_NEETUG"
+  },
+  {
+    "scope": "West Bengal",
+    "scopeType": "state",
+    "name": "West Bengal Medical Counselling Committee (WBMCC)",
+    "description": "",
+    "website": "https://wbmcc.nic.in/"
+  }
+]

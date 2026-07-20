@@ -1,0 +1,104 @@
+{
+  "configVersion": 1,
+  "timestamp": 1784552120477,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/favicon.ico",
+        "/index.html",
+        "/main-67FQIB2P.js",
+        "/manifest.webmanifest",
+        "/styles-2VIIOR2E.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/icons/RankZen.svg",
+        "/icons/android-chrome-192x192.png",
+        "/icons/android-chrome-512x512.png",
+        "/icons/apple-touch-icon.png",
+        "/icons/favicon-16x16.png",
+        "/icons/favicon-32x32.png",
+        "/icons/site.webmanifest"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [
+    {
+      "name": "api-data",
+      "patterns": [
+        "\\/data\\/[^/]*\\.json"
+      ],
+      "strategy": "freshness",
+      "maxSize": 20,
+      "maxAge": 86400000,
+      "timeoutMs": 5000,
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "version": 1
+    },
+    {
+      "name": "fonts",
+      "patterns": [
+        "https:\\/\\/fonts\\.googleapis\\.com\\/.*",
+        "https:\\/\\/fonts\\.gstatic\\.com\\/.*"
+      ],
+      "strategy": "performance",
+      "maxSize": 10,
+      "maxAge": 2592000000,
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "version": 1
+    }
+  ],
+  "hashTable": {
+    "/favicon.ico": "93761e412f09db5d4da70332b29c4a6aca622f17",
+    "/icons/RankZen.svg": "01362aed5f458727ebd6fecd67d1f51fbe4e3663",
+    "/icons/android-chrome-192x192.png": "1b264dc6509dfd28e9901f37c9a7bf475756570b",
+    "/icons/android-chrome-512x512.png": "07ec7de6f033ed49d45b6a68304004db6ebff6aa",
+    "/icons/apple-touch-icon.png": "f4a674e7ee3f5410c5177dd47b98598536a3116d",
+    "/icons/favicon-16x16.png": "a5a45f56c389180b5926f94f71f544ad2449b63b",
+    "/icons/favicon-32x32.png": "8d24198cb20af22aef3b7d929d19689fa0a41a77",
+    "/icons/site.webmanifest": "6c2f977cb48a41e9196cb12e35d925c87d5dcf02",
+    "/index.html": "38c1b77f4570d49c04926e3b41f78502fc6a5627",
+    "/main-67FQIB2P.js": "1279b9693ebcaf6e5d894aa39a887f9d534c84b1",
+    "/manifest.webmanifest": "7faaaa0db4dc643d8c06991bbf082101a030c500",
+    "/styles-2VIIOR2E.css": "18ddfb449bb610037712fc8dd363ae15f81146aa"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
