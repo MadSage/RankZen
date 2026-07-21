@@ -1,14 +1,27 @@
-[
-
+[{
+  "id": 2,
+  "date": "2026-07-16",
+  "title": "NTA Declares NEET (UG) 2026 Results; 11.21 Lakh Candidates Qualify",
+  "authority": "NTA",
+  "category": "Press Release",
+  "link": "https://neet.nta.nic.in/",
+  "isNew": true,
+  "state": "National",
+  "year": 2026,
+  "summary": "The National Testing Agency (NTA) announced the NEET (UG) 2026 results on 16 July 2026. Over 11.21 lakh candidates qualified, with counselling to begin as per the scheduled admission calendar.",
+  "content": "The National Testing Agency (NTA) has officially declared the results of NEET (UG) 2026 on 16 July 2026.\n\nKey Highlights:\n• Around 20 lakh candidates appeared for the examination conducted on 21 June 2026 across 5,440 centres in 551 Indian cities and 14 international cities.\n• A total of 11.21 lakh candidates qualified for admission to MBBS, BDS, AYUSH and allied undergraduate programmes.\n• More than 58% of the qualified candidates are women.\n• The highest score of 715/720 was jointly secured by Aryan Gupta (Punjab) and Panshul Bansal (Haryana).\n• 138 candidates scored above 690 marks, while 19 candidates scored above 700 marks.\n• Results, scorecards, state toppers, category-wise toppers and cut-off marks are available on the official NTA website.\n\nCounselling Advisory:\n• All India Quota (AIQ) counselling for MBBS/BDS will be conducted by the Medical Counselling Committee (MCC).\n• State quota counselling will be conducted separately by respective State authorities.\n• Candidates should rely only on official websites such as neet.nta.nic.in, mcc.nic.in and respective State counselling portals.\n• NTA has cautioned candidates against fraudulent calls, fake admission offers and unofficial counselling websites."
+},
   {
-    "id": 1,
+    "id": 2,
     "date": "2026-05-27",
-    "title": "MCC Clarifies NRI Quota Eligibility for NEET UG & PG Counselling 2026-27",
+    "title": "MCC Clarifies NRI Quota Eligibility & Certificate Verification for NEET UG 2026-27",
     "authority": "MCC",
     "category": "Notice",
     "link": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/05/2026052710250622.pdf",
     "isNew": true,
     "state": "National",
-    "year": 2026
+    "year": 2026,
+    "summary": "Official clarification issued by MCC regarding document requirements and embassy sponsorship letters for candidates applying under NRI quota.",
+    "content": "The Medical Counselling Committee (MCC) of DGHS has released an official advisory detailing the mandatory documentation required for NRI quota candidate verification in All India Quota rounds for the 2026-27 session.\n\nKey Highlights:\n• Candidates applying under NRI quota must submit notarized embassy affidavits along with relationship proof documents.\n• Valid passport copies of the financial sponsor must be uploaded on the MCC portal prior to choice filling.\n• Verification will be conducted online by designated nodal centers before Round 1 seat processing.\n\nAll participating candidates are advised to verify documents with official MCC guidelines before submitting choices."
   }
 ]

@@ -11,4 +11,4 @@ Allow: /references
 Disallow: /admin/
 Disallow: /api/
 
-Sitemap: https://rankgrid.in/sitemap.xml
+Sitemap: https://www.rankgrid.in/sitemap.xml

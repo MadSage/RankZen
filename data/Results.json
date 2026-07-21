@@ -6,81 +6,15 @@
     "course": "MBBS",
     "quota": "All India Quota (AIQ)",
     "category": "Open",
+    "openingRank": 1,
     "closingRank": 85,
     "seatType": "Government",
     "state": "Delhi",
-    "year": 2026
-  },
-  {
-    "id": 2,
-    "round": "Round 1",
-    "college": "Vardhman Mahavir Medical College (VMMC), New Delhi",
-    "course": "MBBS",
-    "quota": "All India Quota (AIQ)",
-    "category": "Open",
-    "closingRank": 113,
-    "seatType": "Government",
-    "state": "Delhi",
-    "year": 2026
-  },
-  {
-    "id": 3,
-    "round": "Round 1",
-    "college": "King George's Medical University (KGMU), Lucknow",
-    "course": "MBBS",
-    "quota": "All India Quota (AIQ)",
-    "category": "OBC",
-    "closingRank": 1054,
-    "seatType": "Government",
-    "state": "Uttar Pradesh",
-    "year": 2026
-  },
-  {
-    "id": 4,
-    "round": "Round 1",
-    "college": "Bangalore Medical College and Research Institute (BMCRI)",
-    "course": "MBBS",
-    "quota": "State Quota",
-    "category": "Open",
-    "closingRank": 1240,
-    "seatType": "Government",
-    "state": "Karnataka",
-    "year": 2025
-  },
-  {
-    "id": 5,
-    "round": "Round 1",
-    "college": "Kasturba Medical College (KMC), Manipal",
-    "course": "MBBS",
-    "quota": "Management Quota",
-    "category": "Open",
-    "closingRank": 45689,
-    "seatType": "Private",
-    "state": "Karnataka",
-    "year": 2025
-  },
-  {
-    "id": 6,
-    "round": "Round 2",
-    "college": "Seth GS Medical College, Mumbai",
-    "course": "MBBS",
-    "quota": "All India Quota (AIQ)",
-    "category": "SC",
-    "closingRank": 12450,
-    "seatType": "Government",
-    "state": "Maharashtra",
-    "year": 2026
-  },
-  {
-    "id": 7,
-    "round": "Round 2",
-    "college": "Government Medical College, Kozhikode",
-    "course": "MBBS",
-    "quota": "State Quota",
-    "category": "Open",
-    "closingRank": 980,
-    "seatType": "Government",
-    "state": "Kerala",
-    "year": 2025
+    "year": 2026,
+    "totalSeatsAllotted": 45,
+    "annualFee": "₹2,400/yr",
+    "bondYears": 0,
+    "pdfLink": "https://mcc.nic.in/round1-allotment-result-2026.pdf",
+    "description": "Round 1 All India Quota allotment results for MAMC New Delhi. Maulana Azad Medical College remains the top choice for top NEET UG scorers with an open closing rank of AIR 85."
   }
 ]
