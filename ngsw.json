@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1784562419230,
+  "timestamp": 1784606737921,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main-67FQIB2P.js",
+        "/main-CNB6P4KV.js",
         "/manifest.webmanifest",
         "/styles-2VIIOR2E.css"
       ],
@@ -27,13 +27,14 @@
         "ignoreVary": true
       },
       "urls": [
-        "/icons/RankZen.svg",
+        "/icons/RankGrid.svg",
         "/icons/android-chrome-192x192.png",
         "/icons/android-chrome-512x512.png",
         "/icons/apple-touch-icon.png",
         "/icons/favicon-16x16.png",
         "/icons/favicon-32x32.png",
-        "/icons/site.webmanifest"
+        "/icons/site.webmanifest",
+        "/rankgrid.svg"
       ],
       "patterns": []
     }
@@ -69,17 +70,18 @@
     }
   ],
   "hashTable": {
-    "/favicon.ico": "93761e412f09db5d4da70332b29c4a6aca622f17",
-    "/icons/RankZen.svg": "01362aed5f458727ebd6fecd67d1f51fbe4e3663",
-    "/icons/android-chrome-192x192.png": "1b264dc6509dfd28e9901f37c9a7bf475756570b",
-    "/icons/android-chrome-512x512.png": "07ec7de6f033ed49d45b6a68304004db6ebff6aa",
-    "/icons/apple-touch-icon.png": "f4a674e7ee3f5410c5177dd47b98598536a3116d",
-    "/icons/favicon-16x16.png": "a5a45f56c389180b5926f94f71f544ad2449b63b",
-    "/icons/favicon-32x32.png": "8d24198cb20af22aef3b7d929d19689fa0a41a77",
-    "/icons/site.webmanifest": "6c2f977cb48a41e9196cb12e35d925c87d5dcf02",
-    "/index.html": "5feadce8864960e792589553f5f802dc5630a1d7",
-    "/main-67FQIB2P.js": "1279b9693ebcaf6e5d894aa39a887f9d534c84b1",
-    "/manifest.webmanifest": "7faaaa0db4dc643d8c06991bbf082101a030c500",
+    "/favicon.ico": "c823b06cca0ca13546dae6fd09c96253fc00d6d3",
+    "/icons/RankGrid.svg": "01182a5ba376b505bb4137c72572ddf4b90c05f8",
+    "/icons/android-chrome-192x192.png": "11bac22879fab130d76a7f2f9f9cb834cf1dd9d1",
+    "/icons/android-chrome-512x512.png": "56c594f20d578c4524e0a37bb07c1d25f822f163",
+    "/icons/apple-touch-icon.png": "ec7e68f6a59a609ee81d74086bc98cb98a14fbeb",
+    "/icons/favicon-16x16.png": "21ad129293e852acb54ee85e057dcd38a2861c50",
+    "/icons/favicon-32x32.png": "598358d49aea9f2f433f0b98c3a15dd329bf17ec",
+    "/icons/site.webmanifest": "6b5d519b55ff7208980d91502da8efaae4920fd9",
+    "/index.html": "1fb634306a57aef78db2f1a14b1ab2293fff2bfb",
+    "/main-CNB6P4KV.js": "9ffde86f7187f4640b458bd9dfa7e8a7d5ce5d9f",
+    "/manifest.webmanifest": "d790edab8075315b4696c5e54c29937e8a35b23d",
+    "/rankgrid.svg": "01182a5ba376b505bb4137c72572ddf4b90c05f8",
     "/styles-2VIIOR2E.css": "18ddfb449bb610037712fc8dd363ae15f81146aa"
   },
   "navigationUrls": [

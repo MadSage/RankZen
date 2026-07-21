@@ -11,4 +11,4 @@ Allow: /references
 Disallow: /admin/
 Disallow: /api/
 
-Sitemap: https://rankzen.in/sitemap.xml
+Sitemap: https://rankgrid.in/sitemap.xml
